@@ -4,6 +4,7 @@ Frontend/node_modules/*
 # Ignore all application.conf files in any folder
 **/application.conf
 
+.idea
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
