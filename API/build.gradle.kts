@@ -29,7 +29,6 @@ dependencies {
     implementation("io.ktor:ktor-server-content-negotiation:2.3.3")
     implementation("io.ktor:ktor-serialization-kotlinx-json:2.3.3")
     implementation("mysql:mysql-connector-java:8.0.33")
-    implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
 }
 
 kotlin {
