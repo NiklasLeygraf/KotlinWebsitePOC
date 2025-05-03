@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="KotlinWebsitePOC/Frontend/.gradle/nodejs/node-v16.0.0-win-x64/node_modules" />
+    <excludedPredefinedLibrary name="KotlinWebsitePOC/Frontend/.gradle/npm/npm-v7.0.0/node_modules" />
+  </component>
+</project>
