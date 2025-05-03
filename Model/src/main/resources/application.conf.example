@@ -1,0 +1,11 @@
+poc {
+  deployment {
+    port = 8080
+  }
+  database {
+    url = "jdbc:mysql://localhost:3306/poc"
+    driver = "com.mysql.cj.jdbc.Driver"
+    user = "root"
+    password = "your_password"
+  }
+}
